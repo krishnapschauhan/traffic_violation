@@ -1,0 +1,6 @@
+train: C:\Users\ananya_sharma\Downloads\object_detection\dataset\train\images
+val: C:\Users\ananya_sharma\Downloads\object_detection\dataset\val\images
+
+nc: 4
+
+names: ["with helmet", "without helmet", "rider", "number plate"]
