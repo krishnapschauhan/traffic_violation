@@ -1,5 +1,3 @@
 myenv/
-runs/
 __pycache__/
 *.pyc
-*.pt
